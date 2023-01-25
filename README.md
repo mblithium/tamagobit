@@ -1,0 +1,2 @@
+# tamagobit
+Your browser "tamagochi".
